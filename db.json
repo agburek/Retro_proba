@@ -1,25 +1,28 @@
 {
-  "pytania":[
+  "Todo":[
 {
-"tresc":"Stolicą Polski było",
-"odpa":"Wilkowyje",
-"odpb":"Gniezno",
-"odpc":"Kowno",
-"poprawna":1
+"nazwaRzeczy":"Poćwiczyć na gitarze",
+"priorytet":0,
+"data":"17-05-2024",
+"zrealizowane":"tak"
 },
 {
-"tresc":"Prezydentem Polski był",
-"odpa":"Jarosław Kaczyński",
-"odpb":"Lecha Wałęsa",
-"odpc":"Paweł Kozioł",
-"poprawna":1
+"nazwaRzeczy":"Zrobić projekt na programowanie",
+"priorytet":1,
+"data":"14-05-2024",
+"zrealizowane":"nie"
 },
 {
-"tresc":"Ostatnie wybory to wybory",
-"odpa":"parlamentarne",
-"odpb":"prezydenckie",
-"odpc":"samorządowe",
-"poprawna":2
+"nazwaRzeczy":"Pójść na siłownię",
+"priorytet":2,
+"data":"03-05-2024",
+"zrealizowane":"tak"
+},
+{
+"nazwaRzeczy":"Zrobić pranie",
+"priorytet":3,
+"data":"10-05-2024",
+"zrealizowane":"nie"
 }
 ]
 
